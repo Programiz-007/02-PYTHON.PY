@@ -1,0 +1,1 @@
+print("hey",6,7,sep="@",end="!")  # sep command separates every character entered and end command ends the statement wit the character entered 
